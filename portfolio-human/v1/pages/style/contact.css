@@ -855,3 +855,112 @@
             display: none;
           }
       }
+
+
+      @media only screen and (min-width: 400px) {
+        .hi-me p {
+            font-family: comfortaa;
+            color: var(--text-color);
+            position: absolute;
+            top: 30%;
+            font-size: 19px;
+            text-align: center;
+            margin: 0;
+          }
+        .hi-me h1 {
+            font-family: comfortaa;
+            color: var(--text-color);
+            position: absolute;
+            top: 24%;
+            font-size: 19px;
+            text-align: center;
+            margin: 0;
+          }
+          .wave {
+            position: absolute;
+            top: -2%;
+            left: 50%;
+            transform: translateX(-50%);
+          }
+          
+          .wave h2 {
+            font-family: poppins;
+            color: var(--text-color);
+            font-size: 5em;
+            position: absolute;
+            transform: translate(-50%, -50%);
+          }
+
+    }
+
+    @media only screen and (min-width: 500px) {
+        .hi-me p {
+            font-family: comfortaa;
+            color: var(--text-color);
+            position: absolute;
+            top: 30%;
+            font-size: 19px;
+            text-align: center;
+            margin: 0;
+          }
+        .hi-me h1 {
+            font-family: comfortaa;
+            color: var(--text-color);
+            position: absolute;
+            top: 24%;
+            font-size: 19px;
+            text-align: center;
+            margin: 0;
+          }
+          .wave {
+            position: absolute;
+            top: -2%;
+            left: 50%;
+            transform: translateX(-50%);
+          }
+          
+          .wave h2 {
+            font-family: poppins;
+            color: var(--text-color);
+            font-size: 5em;
+            position: absolute;
+            transform: translate(-50%, -50%);
+          }
+    }
+
+
+    @media only screen and (min-width: 999px) {
+        .hi-me p {
+            font-family: comfortaa;
+            color: var(--text-color);
+            position: absolute;
+            top: 30%;
+            font-size: 19px;
+            text-align: center;
+            margin: 0;
+          }
+        .hi-me h1 {
+            font-family: comfortaa;
+            color: var(--text-color);
+            position: absolute;
+            top: 24%;
+            font-size: 19px;
+            text-align: center;
+            margin: 0;
+          }
+          .wave {
+            position: absolute;
+            top: -2%;
+            left: 50%;
+            transform: translateX(-50%);
+          }
+          
+          .wave h2 {
+            font-family: poppins;
+            color: var(--text-color);
+            font-size: 5em;
+            position: absolute;
+            transform: translate(-50%, -50%);
+          }
+
+    }
